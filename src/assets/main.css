@@ -1,0 +1,17 @@
+:root {
+  --mens-1: #002772;
+  --womens-1: #fde2ff;
+  --womens-2: #720080;
+  --dark-black: #1e1e1e;
+  --mens-2: #d8e6ff;
+  --dark-gray: #3f3f3f;
+  --light-gray: #dcdcdc;
+  --pure-white: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
